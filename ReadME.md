@@ -19,7 +19,7 @@ Details
 
 Example Results
 --------------------
-![alt text](https://github.com/clarehchao/Project1/blob/master/data/XLineProfileFit_PostPosition_Run1_50.jpg "Line profile in X-diretion of the positron position volume")
+![fig1](https://github.com/clarehchao/Project1/blob/master/data/XLineProfileFit_PostPosition_Run1_50.jpg "Line profile in X-diretion of the positron position volume")
 
 
 
