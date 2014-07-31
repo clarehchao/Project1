@@ -22,12 +22,14 @@ Example Results
 The result illustrates the effect of 7-Tesla magnetic field on the positron range spread in two image directions (in-plane and transverse) for Galium-68 (Ga-68) radioactive source.
 
 ### In-plane direction
+--------------------
 This figure shows a in-plane slice image of the positron position volume 
 ![fig1](https://github.com/clarehchao/Project1/blob/master/data/XPositronPostPosition_Run1_50.jpg "A slice image of the positron position volume")
 The below figure is the line profile of the in-plane image slice of the positron position volume.
 ![fig2](https://github.com/clarehchao/Project1/blob/master/data/XLineProfileFit_PostPosition_Run1_50.jpg "Line profile in X-diretion of the positron position volume")
 
 ### Transverse direction
+--------------------
 The figure shows a transverse slice image of the positron position volume.
 ![fig3](https://github.com/clarehchao/Project1/blob/master/data/ZPositronPostPosition_Run1_50.jpg "A slice image of the positron position volume")
 The below figure is the line profile and of the transverse image slice of the positron position volume.
