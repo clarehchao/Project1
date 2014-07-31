@@ -19,7 +19,7 @@ Details
 
 Example Results
 --------------------
-![This is a image slice of the positron volume](https://github.com/clarehchao/Project1/blob/master/data/XPositronPostPosition_Run1_50.pdf "XPositronPostPosition")
+![alt text](https://github.com/clarehchao/Project1/blob/master/data/XLineProfileFit_PostPosition_Run1_50.jpg "Line profile in X-diretion of the positron position volume")
 
 
 
