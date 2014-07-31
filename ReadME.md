@@ -1,7 +1,7 @@
 Evaluation of Positron Range Spread for Positron Emission Tomography (PET) Imaging
 ===================================================================================================
 
-Introduction
+Purpose
 -------------------
 The python script was written to process the positron position data tracked using GEANT4 Monte Carlo simulations.
 The goal is to determine the effect of magnetic field in positron range of long-range positron emitters (Ga-68, I-124, or Rb-82) in positron emission tomography (PET) imaging.
