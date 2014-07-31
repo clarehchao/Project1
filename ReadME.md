@@ -17,6 +17,11 @@ Details
 - Applied curve fitting to the line profile to determine full width half maximum (FWHM) and full width tenth maximum (FWTM)
 - Utilized Numpy and Scipy packages in Python (version 2.7.3)
 
+Example Results
+--------------------
+![This is a image slice of the positron volume](https://github.com/clarehchao/Project1/blob/master/data/XPositronPostPosition_Run1_50.pdf "XPositronPostPosition")
+
+
 
 
 
