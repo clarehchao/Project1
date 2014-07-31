@@ -1,4 +1,4 @@
-Evaluation of Positron Range Spread in the presence of Magnetic field
+Evaluation of Positron Range Spread for Positron Emission Tomography (PET) Imaging
 ===================================================================================================
 
 Introduction
